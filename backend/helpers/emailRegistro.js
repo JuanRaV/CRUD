@@ -9,7 +9,6 @@ const emailRegistro =async(datos)=>{
           pass: process.env.EMAIL_PASS
         }
       });
- 
       //Enviar email
       const {email,nombre,token} = datos;
       const info = await transport.sendMail({
