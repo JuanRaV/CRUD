@@ -38,5 +38,5 @@ Para iniciar el servidor con nodemon en modo de desarrollo, ejecuta el siguiente
 
     npm run dev
 
-Esto iniciará el servidor y estará disponible en el puerto 3000 por defecto. Si deseas cambiar el puerto, define la variable de entorno PORT en tu archivo .env. El servidor se reiniciará automáticamente cuando se detecten cambios en el código fuente.
+
 
