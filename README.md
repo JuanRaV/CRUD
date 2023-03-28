@@ -29,6 +29,7 @@ Reemplaza <URI de conexión a la base de datos de MongoDB> con la URI de conexi�
 ## Ejecución
 
 Ejecuta el siguiente comando para iniciar el servidor:
+    
     npm start
     
 Este comando iniciará el servidor y estará disponible en el puerto 3000 por defecto. Si deseas cambiar el puerto, define la variable de entorno PORT en tu archivo .env.
