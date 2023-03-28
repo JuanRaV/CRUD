@@ -1,7 +1,7 @@
 # CRUD
 Configuración del Proyecto
 
-# Este proyecto utiliza Node.js, Express y MongoDB como base de datos. Para configurar el proyecto, sigue los siguientes pasos:
+## Este proyecto utiliza Node.js, Express y MongoDB como base de datos. Para configurar el proyecto, sigue los siguientes pasos:
 Prerrequisitos
 
 Tener instalado Node.js y npm en tu computadora.
